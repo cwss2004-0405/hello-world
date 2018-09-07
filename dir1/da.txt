@@ -1,2 +1,0 @@
-dev dir1 a.txt cccca bb cc
-abc
